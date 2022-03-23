@@ -1,0 +1,26 @@
+#pragma once
+enum Operacoes
+{
+	PERCENTAGE,
+	NUMBER_7,
+	NUMBER_4,
+	NUMBER_1,
+	NEGATIVO_POSITIVO,
+	CLEAR,
+	NUMBER_8,
+	NUMBER_5,
+	NUMBER_2,
+	NUMBER_0,
+	DELETE1,
+	NUMBER_9,
+	NUMBER_6,
+	NUMBER_3,
+	PONTO,
+	SUB,
+	SUM,
+	MULTI,
+	DIV,
+	EQUAL
+
+};
+

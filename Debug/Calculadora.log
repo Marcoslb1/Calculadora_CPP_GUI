@@ -1,0 +1,5 @@
+﻿  CalculadoraClass.cpp
+C:\Users\marc1\source\repos\Calculadora\Calculadora\CalculadoraClass.cpp(270,21): warning C4018: '<': incompatibilidade de signed/unsigned
+  Main.cpp
+  Gerando Código...
+  Calculadora.vcxproj -> C:\Users\marc1\source\repos\Calculadora\Debug\Calculadora.exe
